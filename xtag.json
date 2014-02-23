@@ -1,9 +1,9 @@
 {
-	"name": "stub",
-	"tagName": "x-stub",
+	"name": "tweets",
+	"tagName": "x-tweets",
 	"version": "0.1.0",
-	"author": "you",
-	"description": "",
+	"author": "Willy Aguirre",
+	"description": "List of tweets",
 	"demo": "demo/index.html",
 	"categories": [],
 	"compatibility": {
